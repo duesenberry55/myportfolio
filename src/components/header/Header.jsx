@@ -18,7 +18,7 @@ return (
 <div className='my_image'>
 
 {/* <img src= "./src/assets/me.jpg" alt='Nyando'/> */}
- <img src= {me} alt="Nyando" width={900} height={400} />
+ <img src= {me} alt="duesenberry" width={900} height={400} />
 
 </div>
 <a href='#contact' className='scroll__down'>Scroll down</a>
