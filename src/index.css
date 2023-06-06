@@ -25,11 +25,11 @@ code {
 
   :root {
      /* as root variable we can used it everywhere */
-    --color-bg:#1f1f38;
+    --color-bg:#023834;
       /* used two(-) to declare css variable */
-    --color-bg-variant:#2c2c6c;
-    --color-primary:#4db5ff;
-    --color-primary-variant:rgba(77, 181, 255, 0.4);
+    --color-bg-variant:#045c50;
+    --color-primary:#67ffb3;
+    --color-primary-variant:rgba(55, 126, 72, 0.747);
     --color-white:#fff;
     --color-light:rgba(255, 255, 255, 0.6);
     --container-width-lg:75%;

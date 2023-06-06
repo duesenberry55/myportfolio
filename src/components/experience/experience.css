@@ -1,0 +1,14 @@
+.experience__container{
+    display: flex;
+    width: 40vw;
+    text-align: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    border: 3px;
+    border-style: solid;
+    padding: 40px 40px 40px 40px;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
+
