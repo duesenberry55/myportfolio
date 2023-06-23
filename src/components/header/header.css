@@ -39,8 +39,8 @@ after the social icons*/
 
 .my_image {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    Height: 35rem;
+    width: 25rem;
+    Height: 40rem;
     position: absolute;
     left: calc(50% - 11rem);
     /*this help to place the image to the middle of screen*/

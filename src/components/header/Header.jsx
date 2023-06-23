@@ -10,7 +10,7 @@ return (
 <div className='container header__container'>
 <h5>Hey There! I am,</h5>
 <h1>Duesenberry Mbikang Agbortar Ako</h1>
-<h5 className='text-light'>Founder/CEO of Supreme Social Media Making Agency | Wordpress Developer </h5>
+<h5 className='text-light'>Founder/CEO of Supreme Social Media Maketing Agency | Wordpress Developer </h5>
 <CTA/>
 {/* here we are using the imported CTA component */}
 <HeaderSocial/>
@@ -18,7 +18,7 @@ return (
 <div className='my_image'>
 
 {/* <img src= "./src/assets/me2.jpg" alt='duesenberry'/> */}
- <img src= {me} alt="duesenberry" width={900} height={400} />
+ <img src= {me} alt="duesenberry" width={900} height={450} />
 
 </div>
 <a href='#contact' className='scroll__down'>Scroll down</a>
