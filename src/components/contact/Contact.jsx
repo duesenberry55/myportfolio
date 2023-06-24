@@ -35,9 +35,9 @@ function Contact() {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option__icon" />
             <h4>Email</h4>
-            <h5>duesenagbotarako@gmail.com</h5>
+            <h5>duesenberry55@gmail.com</h5>
             <a
-              href="mailto:duesenberry55@gmail.com"
+              href="mailto:duesenagbotarako@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
