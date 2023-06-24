@@ -37,7 +37,7 @@ function Contact() {
             <h4>Email</h4>
             <h5>duesenagbotarako@gmail.com</h5>
             <a
-              href="mailto:duesenagbotarako@gmail.com"
+              href="mailto:duesenberry55@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
